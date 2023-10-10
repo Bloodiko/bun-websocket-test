@@ -1,0 +1,11 @@
+{
+  "name": "bun-websocket-test",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "^1.0.5-canary.20231009T140142"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
